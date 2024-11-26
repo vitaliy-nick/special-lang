@@ -1,0 +1,15 @@
+{
+    "colors": {
+        "None": "0",
+        "Black": "30",
+        "Red": "31",
+        "Green": "32",
+        "Yellow": "33",
+        "Blue": "34",
+        "Fiolet": "35",
+        "Cyan": "36",
+        "Grey": "37",
+        "Dark-grey": "90",
+        "White": "97"
+    }
+}
